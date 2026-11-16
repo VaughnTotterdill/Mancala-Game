@@ -5,6 +5,7 @@ An online version of the mancala game to be played in terminal/on IDE
 <img width="159" height="317" alt="Mancala board copy" src="https://github.com/user-attachments/assets/c250d4b2-3751-4539-a220-0472e45b9efd" />
 
 This is how the board is displayed: 
+<br>
      (0)     
    3     3   
    3     3   
