@@ -15,7 +15,6 @@ This is how the board is displayed:
    3     3   
      (0)     
 
-This is the board. Player 1 has tiles 11,12,13,0,1,2,3 and player 2 4,5,6,7,8,9,10 
-Tiles 0 and 7 are the home squares for players one and two respectively 
+This is the board. Player 1 has tiles 11,12,13,0,1,2,3 and player 2 4,5,6,7,8,9,10 . Tiles 0 and 7 are the home squares for players one and two respectively.  
 
 To start all tiles except 0 and 7 have 3 marbles each. Then on your turn you pick one of the tiles in your squares and then deposit them into the next tiles (going around in a circle). You can place a tile into your home square and this counts as a point. The idea is whoever collects the most marbles wins. 
